@@ -44,8 +44,13 @@ Experience across data pipelines, model optimization, and system reliability.
 ## 🌱 Interests
 
 I’m particularly interested in applying AI to:
-- sustainability and climate-related problems  
-- health and wellness systems
+- sustainability and climate applications  
+- health, wellness, and human-centric AI  
+- finance and fintech systems  
+- legal AI and knowledge-intensive workflows  
+- e-commerce and customer experience automation  
+- developer productivity and AI-assisted engineering  
+- knowledge systems (RAG, graphs, semantic layers) 
 
 ---
 
